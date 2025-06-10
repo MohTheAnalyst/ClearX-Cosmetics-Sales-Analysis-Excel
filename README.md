@@ -45,28 +45,33 @@ The company faces challenges such as:
 
 ---
 
-## 📈 Key Insights
+## 📊 Key Business Matrix
 
-### Revenue Overview
+🧾 Total Revenue: ₦32,089,766.61
 
-- Total Revenue: ₦32,089,766.61  
-- Avg Profit Margin: 80%  
-- Branch A leads in sales
+💸 Total Profit: ₦25,682,551.79 (80% profit margin)
 
-### Product Performance
+🛍 Total Units Sold: 749,883
 
-- Top sellers: Perfume, Cologne, Body Mist 
+🔁 Customer Retention Rate: 53%
 
-### Customer Insights
+🧑‍🤝‍🧑 Revenue Contribution:
 
-- Most profitable: Age 30–40, male customers  
-- 53% retention rate
+Male Customers: ₦18M (56%)
 
-### Regional & Branch Trends
+Female Customers: ₦14M (44%)
 
-- Rural areas outperform cities and suburbs  
-- Branch B has 56% YoY growth  
-- Branch C saw a 28% decline → needs attention
+## 🧠 Strategic Insight
+
+📈 Makeup & Fragrances were the most profitable categories, with perfumes leading sales.
+
+🏠 Rural areas outperformed suburban and city branches in total revenue.
+
+🧓 Age group 30–40 generated the most revenue; an opportunity exists in the 40+ segment.
+
+🛒 Seasonal peaks occur in Q4, highlighting strong holiday demand.
+
+🌍 Branch A leads in performance; B & C need targeted marketing and training.
 
 ---
 
